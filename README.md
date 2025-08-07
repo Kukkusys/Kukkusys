@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Kukku
-- 👀 I’m interested in Games,Anime,Movies,Sports,Sleeping
-- 🌱 I’m currently learning Html+css
-- 💞️ I’m looking to collaborate on FaceToFace
-- 📫 How to reach me Through my email
-- 😄 Pronouns: he/him                                                             
-- ⚡ Fun fact: i sleep like a kuwala🤸🏻‍♀️                                  
-------------------------------------------------------------------------
+Hey Akshat This Side 
+Pleasured to meet you . 
+I upload my simple works with java and other languages here .
+Id be pleased if you take a look at it and give me some suggestion about improving my work and expierence .
